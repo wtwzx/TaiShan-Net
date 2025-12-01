@@ -84,4 +84,4 @@ TaiShan Net机场由海外团队运营，专注于提供高效稳定的加速服
 **账户流量异常情况**  
 - 确保没有将账户分享给他人，滥用流量会导致消耗过快。
 
-> **TaiShan Net** - SSR协议中转+专线机场，IPLC节点：访问[官网](https://jump.p6p.net/87)订阅。
+> **TaiShan Net** - SSR协议中转+专线机场，IPLC节点：访问[官网](https://tiao.bid/87)订阅。
